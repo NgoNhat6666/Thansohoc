@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thần Số Học – Numerus Lite</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=1" />
+  <meta name="description" content="Phân tích thần số học cơ bản (Life Path, Expression, Soul Urge, Personality) chạy hoàn toàn trên trình duyệt." />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="brand">
+        <div class="logo">∞</div>
+        <div class="title">Thần Số Học</div>
+      </div>
+      <nav class="nav">
+        <a href="#home">Trang chủ</a>
+        <a href="#analyze">Phân tích</a>
+        <a href="#about">Giới thiệu</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="home" class="hero">
+      <h1>Khám phá con số của bạn</h1>
+      <p>Ứng dụng web tĩnh, chạy 100% trên trình duyệt – sẵn sàng cho GitHub Pages.</p>
+      <a class="button primary" href="#analyze">Bắt đầu phân tích</a>
+    </section>
+
+    <section id="analyze" class="card">
+      <h2>🔮 Phân tích nhanh</h2>
+      <form id="form">
+        <div class="grid">
+          <label>
+            Họ và tên đầy đủ
+            <input id="fullName" type="text" placeholder="Ví dụ: Nguyễn Văn An" required />
+          </label>
+          <label>
+            Ngày sinh
+            <input id="dob" type="date" required />
+          </label>
+        </div>
+        <button class="button" type="submit">Phân tích</button>
+      </form>
+
+      <div id="result" class="result hidden">
+        <h3>Kết quả</h3>
+        <div class="grid cols-2" id="cards"></div>
+      </div>
+    </section>
+
+    <section id="about" class="muted">
+      <h2>Về dự án</h2>
+      <p>Phiên bản rút gọn, không cần server. Phù hợp triển khai GitHub Pages. Mã nguồn gọn, dễ mở rộng.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© 2025 Numerus Lite – MIT License</small>
+    </div>
+  </footer>
+
+  <script src="assets/app.js?v=1"></script>
+</body>
+</html>
