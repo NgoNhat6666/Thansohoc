@@ -1,0 +1,28 @@
+
+{
+  "name": "Numerus Dev",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "editor.formatOnSave": true
+      },
+      "extensions": [
+        "ms-python.python",
+        "github.copilot"
+      ]
+    }
+  },
+  "portsAttributes": {
+    "8000": {
+      "label": "API",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "forwardPorts": [8000]
+}

@@ -1,0 +1,3713 @@
+[
+  {
+    "lp": 1,
+    "ex": 1,
+    "vi": "LP 1 × EX 1: khởi xướng gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 1: initiation meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 2,
+    "vi": "LP 1 × EX 2: khởi xướng gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 2: initiation meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 4,
+    "vi": "LP 1 × EX 4: khởi xướng gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 4: initiation meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 5,
+    "vi": "LP 1 × EX 5: khởi xướng gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 5: initiation meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 6,
+    "vi": "LP 1 × EX 6: khởi xướng gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 6: initiation meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 8,
+    "vi": "LP 1 × EX 8: khởi xướng gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 8: initiation meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 9,
+    "vi": "LP 1 × EX 9: khởi xướng gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 9: initiation meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 11,
+    "vi": "LP 1 × EX 11: khởi xướng gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 11: initiation meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 22,
+    "vi": "LP 1 × EX 22: khởi xướng gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 1 × EX 22: initiation meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 1,
+    "vi": "LP 2 × EX 1: kết nối gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 1: connection meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 2,
+    "vi": "LP 2 × EX 2: kết nối gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 2: connection meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 3,
+    "vi": "LP 2 × EX 3: kết nối gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 3: connection meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 4,
+    "vi": "LP 2 × EX 4: kết nối gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 4: connection meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 5,
+    "vi": "LP 2 × EX 5: kết nối gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 5: connection meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 6,
+    "vi": "LP 2 × EX 6: kết nối gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 6: connection meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 7,
+    "vi": "LP 2 × EX 7: kết nối gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 7: connection meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 9,
+    "vi": "LP 2 × EX 9: kết nối gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 9: connection meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 11,
+    "vi": "LP 2 × EX 11: kết nối gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 11: connection meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 2,
+    "ex": 22,
+    "vi": "LP 2 × EX 22: kết nối gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 2 × EX 22: connection meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 1,
+    "vi": "LP 3 × EX 1: biểu đạt gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 1: expression meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 2,
+    "vi": "LP 3 × EX 2: biểu đạt gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 2: expression meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 3,
+    "vi": "LP 3 × EX 3: biểu đạt gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 3: expression meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 6,
+    "vi": "LP 3 × EX 6: biểu đạt gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 6: expression meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 7,
+    "vi": "LP 3 × EX 7: biểu đạt gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 7: expression meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 8,
+    "vi": "LP 3 × EX 8: biểu đạt gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 8: expression meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 9,
+    "vi": "LP 3 × EX 9: biểu đạt gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 9: expression meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 11,
+    "vi": "LP 3 × EX 11: biểu đạt gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 11: expression meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 3,
+    "ex": 22,
+    "vi": "LP 3 × EX 22: biểu đạt gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 3 × EX 22: expression meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 1,
+    "vi": "LP 4 × EX 1: kỷ luật gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 1: structure meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 2,
+    "vi": "LP 4 × EX 2: kỷ luật gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 2: structure meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 3,
+    "vi": "LP 4 × EX 3: kỷ luật gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 3: structure meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 4,
+    "vi": "LP 4 × EX 4: kỷ luật gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 4: structure meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 6,
+    "vi": "LP 4 × EX 6: kỷ luật gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 6: structure meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 7,
+    "vi": "LP 4 × EX 7: kỷ luật gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 7: structure meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 8,
+    "vi": "LP 4 × EX 8: kỷ luật gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 8: structure meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 9,
+    "vi": "LP 4 × EX 9: kỷ luật gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 9: structure meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 11,
+    "vi": "LP 4 × EX 11: kỷ luật gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 11: structure meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 4,
+    "ex": 22,
+    "vi": "LP 4 × EX 22: kỷ luật gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 4 × EX 22: structure meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 1,
+    "vi": "LP 5 × EX 1: tự do gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 1: freedom meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 2,
+    "vi": "LP 5 × EX 2: tự do gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 2: freedom meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 3,
+    "vi": "LP 5 × EX 3: tự do gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 3: freedom meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 5,
+    "vi": "LP 5 × EX 5: tự do gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 5: freedom meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 6,
+    "vi": "LP 5 × EX 6: tự do gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 6: freedom meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 8,
+    "vi": "LP 5 × EX 8: tự do gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 8: freedom meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 9,
+    "vi": "LP 5 × EX 9: tự do gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 9: freedom meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 11,
+    "vi": "LP 5 × EX 11: tự do gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 11: freedom meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 5,
+    "ex": 22,
+    "vi": "LP 5 × EX 22: tự do gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 5 × EX 22: freedom meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 1,
+    "vi": "LP 6 × EX 1: chăm sóc gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 1: nurturing meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 2,
+    "vi": "LP 6 × EX 2: chăm sóc gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 2: nurturing meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 3,
+    "vi": "LP 6 × EX 3: chăm sóc gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 3: nurturing meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 4,
+    "vi": "LP 6 × EX 4: chăm sóc gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 4: nurturing meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 5,
+    "vi": "LP 6 × EX 5: chăm sóc gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 5: nurturing meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 6,
+    "vi": "LP 6 × EX 6: chăm sóc gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 6: nurturing meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 7,
+    "vi": "LP 6 × EX 7: chăm sóc gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 7: nurturing meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 11,
+    "vi": "LP 6 × EX 11: chăm sóc gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 11: nurturing meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 6,
+    "ex": 22,
+    "vi": "LP 6 × EX 22: chăm sóc gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 6 × EX 22: nurturing meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 2,
+    "vi": "LP 7 × EX 2: nội quán gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 2: insight meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 4,
+    "vi": "LP 7 × EX 4: nội quán gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 4: insight meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 5,
+    "vi": "LP 7 × EX 5: nội quán gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 5: insight meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 6,
+    "vi": "LP 7 × EX 6: nội quán gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 6: insight meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 7,
+    "vi": "LP 7 × EX 7: nội quán gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 7: insight meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 8,
+    "vi": "LP 7 × EX 8: nội quán gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 8: insight meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 11,
+    "vi": "LP 7 × EX 11: nội quán gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 11: insight meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 7,
+    "ex": 22,
+    "vi": "LP 7 × EX 22: nội quán gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 7 × EX 22: insight meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 1,
+    "vi": "LP 8 × EX 1: thành tựu gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 1: power meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 4,
+    "vi": "LP 8 × EX 4: thành tựu gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 4: power meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 5,
+    "vi": "LP 8 × EX 5: thành tựu gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 5: power meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 6,
+    "vi": "LP 8 × EX 6: thành tựu gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 6: power meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 7,
+    "vi": "LP 8 × EX 7: thành tựu gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 7: power meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 8,
+    "vi": "LP 8 × EX 8: thành tựu gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 8: power meets power — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 9,
+    "vi": "LP 8 × EX 9: thành tựu gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 9: power meets service — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 11,
+    "vi": "LP 8 × EX 11: thành tựu gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 11: power meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 8,
+    "ex": 22,
+    "vi": "LP 8 × EX 22: thành tựu gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 8 × EX 22: power meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 2,
+    "vi": "LP 9 × EX 2: phụng sự gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 2: service meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 3,
+    "vi": "LP 9 × EX 3: phụng sự gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 3: service meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 4,
+    "vi": "LP 9 × EX 4: phụng sự gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 4: service meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 5,
+    "vi": "LP 9 × EX 5: phụng sự gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 5: service meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 7,
+    "vi": "LP 9 × EX 7: phụng sự gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 7: service meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 8,
+    "vi": "LP 9 × EX 8: phụng sự gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 8: service meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 9,
+    "vi": "LP 9 × EX 9: phụng sự gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 9: service meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 11,
+    "vi": "LP 9 × EX 11: phụng sự gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 11: service meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 9,
+    "ex": 22,
+    "vi": "LP 9 × EX 22: phụng sự gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 9 × EX 22: service meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 1,
+    "vi": "LP 11 × EX 1: trực giác gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 1: intuition meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 3,
+    "vi": "LP 11 × EX 3: trực giác gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 3: intuition meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 4,
+    "vi": "LP 11 × EX 4: trực giác gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 4: intuition meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 5,
+    "vi": "LP 11 × EX 5: trực giác gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 5: intuition meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 6,
+    "vi": "LP 11 × EX 6: trực giác gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 6: intuition meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 8,
+    "vi": "LP 11 × EX 8: trực giác gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 8: intuition meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 9,
+    "vi": "LP 11 × EX 9: trực giác gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 9: intuition meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 11,
+    "ex": 11,
+    "vi": "LP 11 × EX 11: trực giác gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 11 × EX 11: intuition meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 1,
+    "vi": "LP 22 × EX 1: kiến trúc sư gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 1: master builder meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 2,
+    "vi": "LP 22 × EX 2: kiến trúc sư gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 2: master builder meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 3,
+    "vi": "LP 22 × EX 3: kiến trúc sư gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 3: master builder meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 5,
+    "vi": "LP 22 × EX 5: kiến trúc sư gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 5: master builder meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 6,
+    "vi": "LP 22 × EX 6: kiến trúc sư gặp chăm sóc — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 6: master builder meets nurturing — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 7,
+    "vi": "LP 22 × EX 7: kiến trúc sư gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 7: master builder meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 9,
+    "vi": "LP 22 × EX 9: kiến trúc sư gặp phụng sự — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 9: master builder meets service — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 22,
+    "ex": 22,
+    "vi": "LP 22 × EX 22: kiến trúc sư gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 22 × EX 22: master builder meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 1,
+    "vi": "LP 33 × EX 1: chữa lành gặp khởi xướng — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 1: compassion meets initiation — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 2,
+    "vi": "LP 33 × EX 2: chữa lành gặp kết nối — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 2: compassion meets connection — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 3,
+    "vi": "LP 33 × EX 3: chữa lành gặp biểu đạt — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 3: compassion meets expression — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 4,
+    "vi": "LP 33 × EX 4: chữa lành gặp kỷ luật — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 4: compassion meets structure — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 5,
+    "vi": "LP 33 × EX 5: chữa lành gặp tự do — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 5: compassion meets freedom — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 7,
+    "vi": "LP 33 × EX 7: chữa lành gặp nội quán — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 7: compassion meets insight — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 8,
+    "vi": "LP 33 × EX 8: chữa lành gặp thành tựu — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 8: compassion meets power — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 11,
+    "vi": "LP 33 × EX 11: chữa lành gặp trực giác — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 11: compassion meets intuition — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 33,
+    "ex": 22,
+    "vi": "LP 33 × EX 22: chữa lành gặp kiến trúc sư — phối hợp bài học đường đời với phong cách biểu đạt.",
+    "en": "LP 33 × EX 22: compassion meets master builder — integrate life lesson with expression style.",
+    "habits": [
+      "Thực hành từ bi bản thân",
+      "Giờ phục vụ/giảng dạy",
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Sprint 7 ngày: mỗi ngày 1 bước ra mắt nhỏ"
+    ]
+  },
+  {
+    "lp": 1,
+    "su": 4,
+    "vi": "LP 1 × SU 4: khởi xướng được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 1 × SU 4: initiation fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 1,
+    "su": 6,
+    "vi": "LP 1 × SU 6: khởi xướng được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 1 × SU 6: initiation fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 1,
+    "su": 7,
+    "vi": "LP 1 × SU 7: khởi xướng được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 1 × SU 7: initiation fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 2,
+    "su": 2,
+    "vi": "LP 2 × SU 2: kết nối được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 2 × SU 2: connection fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 2,
+    "su": 4,
+    "vi": "LP 2 × SU 4: kết nối được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 2 × SU 4: connection fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 2,
+    "su": 6,
+    "vi": "LP 2 × SU 6: kết nối được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 2 × SU 6: connection fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 2,
+    "su": 7,
+    "vi": "LP 2 × SU 7: kết nối được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 2 × SU 7: connection fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 3,
+    "su": 2,
+    "vi": "LP 3 × SU 2: biểu đạt được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 3 × SU 2: expression fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 3,
+    "su": 4,
+    "vi": "LP 3 × SU 4: biểu đạt được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 3 × SU 4: expression fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 3,
+    "su": 6,
+    "vi": "LP 3 × SU 6: biểu đạt được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 3 × SU 6: expression fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 3,
+    "su": 7,
+    "vi": "LP 3 × SU 7: biểu đạt được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 3 × SU 7: expression fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 4,
+    "su": 2,
+    "vi": "LP 4 × SU 2: kỷ luật được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 4 × SU 2: structure fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 4,
+    "su": 4,
+    "vi": "LP 4 × SU 4: kỷ luật được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 4 × SU 4: structure fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 4,
+    "su": 6,
+    "vi": "LP 4 × SU 6: kỷ luật được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 4 × SU 6: structure fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 4,
+    "su": 7,
+    "vi": "LP 4 × SU 7: kỷ luật được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 4 × SU 7: structure fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 5,
+    "su": 2,
+    "vi": "LP 5 × SU 2: tự do được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 5 × SU 2: freedom fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 5,
+    "su": 6,
+    "vi": "LP 5 × SU 6: tự do được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 5 × SU 6: freedom fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 5,
+    "su": 7,
+    "vi": "LP 5 × SU 7: tự do được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 5 × SU 7: freedom fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 6,
+    "su": 2,
+    "vi": "LP 6 × SU 2: chăm sóc được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 6 × SU 2: nurturing fueled by connection — align goals with heart motives.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 6,
+    "su": 4,
+    "vi": "LP 6 × SU 4: chăm sóc được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 6 × SU 4: nurturing fueled by structure — align goals with heart motives.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 6,
+    "su": 6,
+    "vi": "LP 6 × SU 6: chăm sóc được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 6 × SU 6: nurturing fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 6,
+    "su": 7,
+    "vi": "LP 6 × SU 7: chăm sóc được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 6 × SU 7: nurturing fueled by insight — align goals with heart motives.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 7,
+    "su": 2,
+    "vi": "LP 7 × SU 2: nội quán được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 7 × SU 2: insight fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 7,
+    "su": 4,
+    "vi": "LP 7 × SU 4: nội quán được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 7 × SU 4: insight fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 7,
+    "su": 6,
+    "vi": "LP 7 × SU 6: nội quán được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 7 × SU 6: insight fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 7,
+    "su": 7,
+    "vi": "LP 7 × SU 7: nội quán được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 7 × SU 7: insight fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 8,
+    "su": 2,
+    "vi": "LP 8 × SU 2: thành tựu được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 8 × SU 2: power fueled by connection — align goals with heart motives.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 8,
+    "su": 4,
+    "vi": "LP 8 × SU 4: thành tựu được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 8 × SU 4: power fueled by structure — align goals with heart motives.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 8,
+    "su": 6,
+    "vi": "LP 8 × SU 6: thành tựu được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 8 × SU 6: power fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 8,
+    "su": 7,
+    "vi": "LP 8 × SU 7: thành tựu được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 8 × SU 7: power fueled by insight — align goals with heart motives.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 9,
+    "su": 2,
+    "vi": "LP 9 × SU 2: phụng sự được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 9 × SU 2: service fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 9,
+    "su": 4,
+    "vi": "LP 9 × SU 4: phụng sự được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 9 × SU 4: service fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 9,
+    "su": 7,
+    "vi": "LP 9 × SU 7: phụng sự được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 9 × SU 7: service fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 11,
+    "su": 2,
+    "vi": "LP 11 × SU 2: trực giác được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 11 × SU 2: intuition fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 11,
+    "su": 4,
+    "vi": "LP 11 × SU 4: trực giác được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 11 × SU 4: intuition fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 11,
+    "su": 6,
+    "vi": "LP 11 × SU 6: trực giác được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 11 × SU 6: intuition fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 11,
+    "su": 7,
+    "vi": "LP 11 × SU 7: trực giác được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 11 × SU 7: intuition fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 22,
+    "su": 2,
+    "vi": "LP 22 × SU 2: kiến trúc sư được nạp bởi kết nối — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 22 × SU 2: master builder fueled by connection — align goals with heart motives.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 22,
+    "su": 4,
+    "vi": "LP 22 × SU 4: kiến trúc sư được nạp bởi kỷ luật — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 22 × SU 4: master builder fueled by structure — align goals with heart motives.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 22,
+    "su": 6,
+    "vi": "LP 22 × SU 6: kiến trúc sư được nạp bởi chăm sóc — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 22 × SU 6: master builder fueled by nurturing — align goals with heart motives.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "lp": 22,
+    "su": 7,
+    "vi": "LP 22 × SU 7: kiến trúc sư được nạp bởi nội quán — chọn mục tiêu hợp với nhu cầu trái tim.",
+    "en": "LP 22 × SU 7: master builder fueled by insight — align goals with heart motives.",
+    "habits": [
+      "Kế hoạch hoá theo mốc quý",
+      "Xây hệ thống đo lường",
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Check-in cảm xúc 5’ trước quyết định lớn"
+    ]
+  },
+  {
+    "ex": 1,
+    "pe": 2,
+    "vi": "EX 1 × PE 2: thể hiện khởi xướng dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 1 × PE 2: express initiation with a connection vibe — refine how you show up.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 1,
+    "pe": 3,
+    "vi": "EX 1 × PE 3: thể hiện khởi xướng dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 1 × PE 3: express initiation with a expression vibe — refine how you show up.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 1,
+    "pe": 6,
+    "vi": "EX 1 × PE 6: thể hiện khởi xướng dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 1 × PE 6: express initiation with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 1,
+    "pe": 8,
+    "vi": "EX 1 × PE 8: thể hiện khởi xướng dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 1 × PE 8: express initiation with a power vibe — refine how you show up.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 1,
+    "pe": 9,
+    "vi": "EX 1 × PE 9: thể hiện khởi xướng dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 1 × PE 9: express initiation with a service vibe — refine how you show up.",
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Quyết định 2 phút cho việc nhỏ",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 2,
+    "pe": 2,
+    "vi": "EX 2 × PE 2: thể hiện kết nối dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 2 × PE 2: express connection with a connection vibe — refine how you show up.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 2,
+    "pe": 3,
+    "vi": "EX 2 × PE 3: thể hiện kết nối dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 2 × PE 3: express connection with a expression vibe — refine how you show up.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 2,
+    "pe": 6,
+    "vi": "EX 2 × PE 6: thể hiện kết nối dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 2 × PE 6: express connection with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 2,
+    "pe": 8,
+    "vi": "EX 2 × PE 8: thể hiện kết nối dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 2 × PE 8: express connection with a power vibe — refine how you show up.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 2,
+    "pe": 9,
+    "vi": "EX 2 × PE 9: thể hiện kết nối dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 2 × PE 9: express connection with a service vibe — refine how you show up.",
+    "habits": [
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 3,
+    "pe": 2,
+    "vi": "EX 3 × PE 2: thể hiện biểu đạt dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 3 × PE 2: express expression with a connection vibe — refine how you show up.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 3,
+    "pe": 3,
+    "vi": "EX 3 × PE 3: thể hiện biểu đạt dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 3 × PE 3: express expression with a expression vibe — refine how you show up.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 3,
+    "pe": 6,
+    "vi": "EX 3 × PE 6: thể hiện biểu đạt dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 3 × PE 6: express expression with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 3,
+    "pe": 8,
+    "vi": "EX 3 × PE 8: thể hiện biểu đạt dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 3 × PE 8: express expression with a power vibe — refine how you show up.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 3,
+    "pe": 9,
+    "vi": "EX 3 × PE 9: thể hiện biểu đạt dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 3 × PE 9: express expression with a service vibe — refine how you show up.",
+    "habits": [
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 4,
+    "pe": 2,
+    "vi": "EX 4 × PE 2: thể hiện kỷ luật dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 4 × PE 2: express structure with a connection vibe — refine how you show up.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 4,
+    "pe": 3,
+    "vi": "EX 4 × PE 3: thể hiện kỷ luật dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 4 × PE 3: express structure with a expression vibe — refine how you show up.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 4,
+    "pe": 6,
+    "vi": "EX 4 × PE 6: thể hiện kỷ luật dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 4 × PE 6: express structure with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 4,
+    "pe": 8,
+    "vi": "EX 4 × PE 8: thể hiện kỷ luật dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 4 × PE 8: express structure with a power vibe — refine how you show up.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 4,
+    "pe": 9,
+    "vi": "EX 4 × PE 9: thể hiện kỷ luật dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 4 × PE 9: express structure with a service vibe — refine how you show up.",
+    "habits": [
+      "Pomodoro 25/5",
+      "Checklist cố định",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 5,
+    "pe": 2,
+    "vi": "EX 5 × PE 2: thể hiện tự do dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 5 × PE 2: express freedom with a connection vibe — refine how you show up.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 5,
+    "pe": 3,
+    "vi": "EX 5 × PE 3: thể hiện tự do dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 5 × PE 3: express freedom with a expression vibe — refine how you show up.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 5,
+    "pe": 6,
+    "vi": "EX 5 × PE 6: thể hiện tự do dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 5 × PE 6: express freedom with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 5,
+    "pe": 8,
+    "vi": "EX 5 × PE 8: thể hiện tự do dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 5 × PE 8: express freedom with a power vibe — refine how you show up.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 5,
+    "pe": 9,
+    "vi": "EX 5 × PE 9: thể hiện tự do dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 5 × PE 9: express freedom with a service vibe — refine how you show up.",
+    "habits": [
+      "Một trải nghiệm mới/tuần",
+      "Giờ giới nghiêm",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 6,
+    "pe": 2,
+    "vi": "EX 6 × PE 2: thể hiện chăm sóc dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 6 × PE 2: express nurturing with a connection vibe — refine how you show up.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 6,
+    "pe": 3,
+    "vi": "EX 6 × PE 3: thể hiện chăm sóc dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 6 × PE 3: express nurturing with a expression vibe — refine how you show up.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 6,
+    "pe": 6,
+    "vi": "EX 6 × PE 6: thể hiện chăm sóc dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 6 × PE 6: express nurturing with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 6,
+    "pe": 8,
+    "vi": "EX 6 × PE 8: thể hiện chăm sóc dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 6 × PE 8: express nurturing with a power vibe — refine how you show up.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 6,
+    "pe": 9,
+    "vi": "EX 6 × PE 9: thể hiện chăm sóc dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 6 × PE 9: express nurturing with a service vibe — refine how you show up.",
+    "habits": [
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 7,
+    "pe": 2,
+    "vi": "EX 7 × PE 2: thể hiện nội quán dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 7 × PE 2: express insight with a connection vibe — refine how you show up.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 7,
+    "pe": 3,
+    "vi": "EX 7 × PE 3: thể hiện nội quán dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 7 × PE 3: express insight with a expression vibe — refine how you show up.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 7,
+    "pe": 6,
+    "vi": "EX 7 × PE 6: thể hiện nội quán dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 7 × PE 6: express insight with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 7,
+    "pe": 8,
+    "vi": "EX 7 × PE 8: thể hiện nội quán dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 7 × PE 8: express insight with a power vibe — refine how you show up.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 7,
+    "pe": 9,
+    "vi": "EX 7 × PE 9: thể hiện nội quán dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 7 × PE 9: express insight with a service vibe — refine how you show up.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Peer review",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 8,
+    "pe": 2,
+    "vi": "EX 8 × PE 2: thể hiện thành tựu dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 8 × PE 2: express power with a connection vibe — refine how you show up.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 8,
+    "pe": 3,
+    "vi": "EX 8 × PE 3: thể hiện thành tựu dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 8 × PE 3: express power with a expression vibe — refine how you show up.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 8,
+    "pe": 6,
+    "vi": "EX 8 × PE 6: thể hiện thành tựu dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 8 × PE 6: express power with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 8,
+    "pe": 8,
+    "vi": "EX 8 × PE 8: thể hiện thành tựu dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 8 × PE 8: express power with a power vibe — refine how you show up.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 8,
+    "pe": 9,
+    "vi": "EX 8 × PE 9: thể hiện thành tựu dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 8 × PE 9: express power with a service vibe — refine how you show up.",
+    "habits": [
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 9,
+    "pe": 2,
+    "vi": "EX 9 × PE 2: thể hiện phụng sự dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 9 × PE 2: express service with a connection vibe — refine how you show up.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 9,
+    "pe": 3,
+    "vi": "EX 9 × PE 3: thể hiện phụng sự dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 9 × PE 3: express service with a expression vibe — refine how you show up.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 9,
+    "pe": 6,
+    "vi": "EX 9 × PE 6: thể hiện phụng sự dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 9 × PE 6: express service with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 9,
+    "pe": 8,
+    "vi": "EX 9 × PE 8: thể hiện phụng sự dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 9 × PE 8: express service with a power vibe — refine how you show up.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 9,
+    "pe": 9,
+    "vi": "EX 9 × PE 9: thể hiện phụng sự dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 9 × PE 9: express service with a service vibe — refine how you show up.",
+    "habits": [
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 11,
+    "pe": 2,
+    "vi": "EX 11 × PE 2: thể hiện trực giác dưới ấn tượng kết nối — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 11 × PE 2: express intuition with a connection vibe — refine how you show up.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Lắng nghe chủ động",
+      "1–1 hàng tuần",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 11,
+    "pe": 3,
+    "vi": "EX 11 × PE 3: thể hiện trực giác dưới ấn tượng biểu đạt — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 11 × PE 3: express intuition with a expression vibe — refine how you show up.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Nhật ký 10’",
+      "Xuất bản micro-post/ngày",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 11,
+    "pe": 6,
+    "vi": "EX 11 × PE 6: thể hiện trực giác dưới ấn tượng chăm sóc — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 11 × PE 6: express intuition with a nurturing vibe — refine how you show up.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "7–8h ngủ",
+      "Khung chăm người thân",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 11,
+    "pe": 8,
+    "vi": "EX 11 × PE 8: thể hiện trực giác dưới ấn tượng thành tựu — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 11 × PE 8: express intuition with a power vibe — refine how you show up.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "OKR tuần",
+      "Ngân sách 50–30–20",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "ex": 11,
+    "pe": 9,
+    "vi": "EX 11 × PE 9: thể hiện trực giác dưới ấn tượng phụng sự — tinh chỉnh cách bạn xuất hiện.",
+    "en": "EX 11 × PE 9: express intuition with a service vibe — refine how you show up.",
+    "habits": [
+      "Thiền 10’",
+      "Đi bộ chánh niệm",
+      "Nghi thức hoàn tất thứ Sáu",
+      "Tình nguyện mỗi tháng",
+      "Phản hồi 360° mỗi 2 tuần"
+    ]
+  },
+  {
+    "lp": 1,
+    "ex": 7,
+    "vi": "LP 1 × EX 7 – Người tiên phong tư duy sâu. Bạn đưa dự án mới ra đời với nhịp 1 (quyết đoán, tự chủ) nhưng thể hiện qua lăng kính 7 (đào sâu, kiểm chứng, thích ẩn danh). Điểm mạnh là quyết định rõ và lập luận chặt; điểm mù là đơn độc hoá và chậm chia sẻ. Khuôn vận hành: vòng lặp “Khám phá → Chưng cất → Quyết định” theo mốc tuần; viết whitepaper ngắn 1–2 trang trước mỗi quyết định lớn. Khi gặp phản kháng, ưu tiên đối thoại phản biện thay vì cố tăng tốc độ.",
+    "en": "LP 1 × EX 7 — A pioneering strategist. You move fast (1) but speak through research (7). Strength: decisive with rigorous reasoning. Pitfall: isolation and over-withholding. Operate in weekly loops: Discover → Distill → Decide; ship a 1–2 page brief before big calls.",
+    "habits": [
+      "Daily: Top-1 ưu tiên + block 90’ deep work",
+      "Trước quyết định lớn: brief 2 trang (vấn đề–giải pháp–rủi ro)",
+      "Hẹn peer review 1 lần/tuần (30’)",
+      "Giới hạn nghiên cứu: timebox 2–3 slot/tuần",
+      "Đặt lịch demo/ghi chú công khai mỗi Thứ Sáu",
+      "Bảng giả định & kiểm chứng, cập nhật hàng tuần",
+      "Nghỉ phục hồi 24h/tuần (không thiết bị)"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 1,
+    "ex": 3,
+    "vi": "LP 1 × EX 3 – Lãnh đạo bằng câu chuyện. Bài học 1 cho bạn sức đẩy mở đường; biểu đạt 3 giúp truyền cảm hứng và kết nối công chúng. Mặt mạnh: khởi xướng, lôi cuốn; mặt yếu: bốc đồng, thiếu hệ thống. Chiến lược: mỗi sáng xác định một “đòn bẩy kể chuyện” cho mục tiêu ưu tiên; nội dung ngắn, đều đặn, tập trung outcome không lan man.",
+    "en": "LP 1 × EX 3 — Story-led leadership. Start boldly (1), inspire clearly (3). Guard against impulsivity: keep content short, regular, outcome-focused.",
+    "habits": [
+      "Daily standup 5’: mục tiêu–thông điệp–kênh",
+      "Xuất bản micro-post 1 chiếc/ngày",
+      "Giới hạn 3 điểm chính cho mọi bài nói",
+      "Checklist duyệt nội dung trước khi đăng",
+      "1 showcase/tuần: demo kết quả thay vì lời hứa",
+      "Sổ ý tưởng: gom nhưng chỉ chọn 1 để làm",
+      "Retrospective Chủ nhật: học gì từ phản hồi"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 2,
+    "ex": 8,
+    "vi": "LP 2 × EX 8 – Nhà điều phối quyền lực mềm. Bạn đọc được cảm xúc–động lực nhóm (2) và thể hiện theo chuẩn quản trị–kết quả (8). Nguy cơ: chiều lòng quá mức hoặc kiểm soát vi mô. Nguyên tắc vàng: “ấm áp trong giao tiếp, sắc lạnh trong số liệu”. Hệ thống hoá kỳ vọng, thước đo, và ranh giới.",
+    "en": "LP 2 × EX 8 — Soft power operator: warm in people, cold in metrics. Avoid over-pleasing and micromanagement; standardize expectations and KPIs.",
+    "habits": [
+      "Thiết lập 3 KPI đầu ra/nhóm",
+      "1–1 theo lịch cố định, ghi biên bản ngắn",
+      "Khung phản hồi SBI (Situation‑Behavior‑Impact)",
+      "Không Slack sau 19:00 (ranh giới nhiệt tâm)",
+      "Ritual quyết định: dữ liệu trước, cảm xúc sau",
+      "Bảng năng lực & ủy quyền theo cấp",
+      "Review KPI thứ Hai hàng tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 4,
+    "vi": "LP 3 × EX 4 – Sáng tạo có khung. Năng lượng 3 khiến bạn nhiều ý tưởng; biểu đạt 4 buộc chúng vào cấu trúc, quy trình. Rủi ro: mất hứng khi gặp kỷ luật. Cách làm: biến kỷ luật thành “nhạc nền tự do” bằng sprint ngắn, checklist sản xuất, và lịch phát hành cố định.",
+    "en": "LP 3 × EX 4 — Creativity in structure. Use short sprints, a production checklist, and fixed release cadences to keep flow without chaos.",
+    "habits": [
+      "Sprint 7 ngày cho từng tác phẩm",
+      "Checklist sản xuất 10 bước",
+      "Lịch phát hành: 2 khung/tuần",
+      "Kho mẫu (templates) cho lặp lại",
+      "Giới hạn thời gian khám phá: 45’",
+      "Phiên biên tập không sáng tạo (chỉ sửa)",
+      "OKR quý: 1 mục tiêu sáng tạo duy nhất"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 5,
+    "vi": "LP 3 × EX 5 – Người kể chuyện trải nghiệm. Bạn học qua va chạm và kể lại bằng ngôn ngữ tươi mới. Cái bẫy: quá đà, thiếu chiều sâu. Công thức: 60% trải nghiệm – 40% chưng cất; mỗi trải nghiệm phải sinh ra một “khung bài học” ngắn có thể dạy lại.",
+    "en": "LP 3 × EX 5 — Experiential storyteller. Ratio 60% experience / 40% distillation; every trip yields a teachable framework.",
+    "habits": [
+      "Plan/Do/Reflect cho mọi chuyến đi",
+      "Viết bài 500 chữ trong 24h sau trải nghiệm",
+      "Quy tắc 2 rủi ro tối đa/tuần",
+      "Nhật ký số liệu: tiền–thời gian–năng lượng",
+      "Mentor 1 người/tháng bằng câu chuyện thực",
+      "Thư viện ví dụ minh hoạ, gắn thẻ",
+      "Ngày detox mỗi tuần (không lịch di chuyển)"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 5,
+    "vi": "LP 4 × EX 5 – Cấu trúc gặp tự do. Vai 4 xây nền ổn định; biểu đạt 5 đòi biến thiên. Bí kíp: sandbox có rào – thử nhanh trong biên an toàn, chuẩn hoá kết quả vào hệ thống. Đừng cố cố định điều chưa biết; hãy cố định nhịp kiểm thử.",
+    "en": "LP 4 × EX 5 — Guardrailed sandbox: experiment fast inside safe bounds; standardize learnings back into the system.",
+    "habits": [
+      "Thiết lập sandbox với tiêu chí dừng rõ ràng",
+      "2 thí nghiệm/tuần, report 1 trang",
+      "Review & chuẩn hoá mỗi thứ Sáu",
+      "Backlog ý tưởng chấm điểm (RICE)",
+      "Không quá 3 thí nghiệm song song",
+      "Runbook sự cố: kịch bản thoát nhanh",
+      "Quarterly refactor hệ thống"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 5,
+    "ex": 4,
+    "vi": "LP 5 × EX 4 – Tự do có kỷ luật. Hạt giống 5 cần khung 4 để bền. Đặt “lịch tự do” thay vì tự do vô lịch: thời gian linh hoạt nhưng có cam kết đầu ra đo được.",
+    "en": "LP 5 × EX 4 — Freedom with discipline: flexible hours, firm outputs. Build stamina through routines you actually like.",
+    "habits": [
+      "Lịch linh hoạt nhưng ổn định khung sáng/chiều",
+      "Cam kết output/tuần rõ ràng (định lượng)",
+      "Pomodoro 25/5 cho việc kém hấp dẫn",
+      "Buffer 20% cho bất ngờ",
+      "Checklist travel‑light cho di chuyển",
+      "Kho tài nguyên offline khi mất mạng",
+      "Weekly review: giữ/loại thói quen"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 5,
+    "ex": 7,
+    "vi": "LP 5 × EX 7 – Kẻ du hành tri thức. Bạn đổi mới qua khám phá và diễn giải bằng nghiên cứu. Rủi ro: đi quá rộng, thiếu luận điểm chính. Thiết kế “biên đề tài” 90 ngày và bản đồ câu hỏi cốt lõi; ưu tiên chiều sâu trước bề rộng.",
+    "en": "LP 5 × EX 7 — Exploratory scholar. Constrain with a 90‑day theme and a core question map; depth before breadth.",
+    "habits": [
+      "Chọn 1 chủ đề 90 ngày",
+      "Bản đồ câu hỏi (max 7 câu)",
+      "3 phiên đọc sâu/tuần (90’)",
+      "Note Zettelkasten: 2 thẻ/ngày",
+      "Thử nghiệm nhỏ 1/tuần ghi chép kết quả",
+      "Talk nội bộ 1/tháng để chưng cất",
+      "Giới hạn nguồn: 5 kênh đáng tin"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 9,
+    "vi": "LP 6 × EX 9 – Chăm sóc vì một bức tranh lớn. Bạn có thiên hướng gia đình/đội nhóm (6) và thể hiện tinh thần nhân bản (9). Thách thức: kiệt sức vì ôm đồm. Khung hành động: “chăm mình trước, rồi hệ sinh thái” – chuẩn hoá ranh giới, chọn dự án có chỉ số tác động xã hội cụ thể.",
+    "en": "LP 6 × EX 9 — Care with scale. Guard energy with boundaries; pick projects with measurable social impact.",
+    "habits": [
+      "Giờ riêng tư cố định hàng ngày",
+      "Danh sách không‑thương‑lượng (3 điều)",
+      "Chỉ số tác động: định nghĩa & theo dõi",
+      "Uỷ quyền công việc chăm sóc",
+      "Nhịp họp gia đình/đội nhóm đều đặn",
+      "Điều chỉnh kỳ vọng công khai",
+      "Kế hoạch phục hồi hàng tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 8,
+    "vi": "LP 6 × EX 8 – Người quản trị chu đáo. Kết hợp ấm áp của 6 với tính hệ thống–quyền hạn của 8. Nguy cơ: bảo bọc biến thành kiểm soát. Giải pháp: chính sách rõ, minh bạch quyết định, và kênh phản hồi an toàn.",
+    "en": "LP 6 × EX 8 — Humane operator. Policies clear, decisions transparent, feedback safe.",
+    "habits": [
+      "Sổ tay chính sách công khai",
+      "Weekly AMA 30’",
+      "Ma trận quyết định (ai quyết/ai tư vấn)",
+      "Điểm danh sức khoẻ đội (pulse 3 câu)",
+      "Ưu tiên nghỉ phép chủ động",
+      "Định nghĩa chất lượng dịch vụ (SLA)",
+      "Post‑mortem không đổ lỗi"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 1,
+    "vi": "LP 7 × EX 1 – Máy kéo của tư duy. Trục 7 cho chiều sâu, 1 cho lực đẩy. Hãy biến nghiên cứu thành quyết định có thời hạn; giữ peer review để tránh mù quáng dữ liệu riêng.",
+    "en": "LP 7 × EX 1 — From insight to decision. Timebox research; keep a peer‑review gate before shipping.",
+    "habits": [
+      "Timebox nghiên cứu 2 tuần/đề tài",
+      "Cửa kiểm peer review trước triển khai",
+      "Decision log ngắn cho mọi quyết định lớn",
+      "Đọc chéo 1 nguồn trái chiều/tuần",
+      "Thử nghiệm tối thiểu khả thi (MVT)",
+      "Lịch ‘ngày tĩnh’ không họp",
+      "Walk & think 30’ mỗi ngày"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 3,
+    "vi": "LP 7 × EX 3 – Nhà truyền thông tri thức. Bạn khiến điều phức tạp trở nên mạch lạc. Cái bẫy: sa đà giải thích. Thay vào đó, kể chuyện bằng cấu trúc “vấn đề–khung–ví dụ–gợi ý thực hành” và dừng đúng lúc.",
+    "en": "LP 7 × EX 3 — Communicator of complexity. Use Problem→Framework→Example→Practice; stop when enough.",
+    "habits": [
+      "Bản thảo 4 phần cho mọi bài nói",
+      "Ví dụ sống mỗi tuần 1 case",
+      "Giới hạn slide 10–12",
+      "Video micro‑lesson 3’/ngày",
+      "Câu hỏi mở đầu: người nghe cần gì?",
+      "Chốt bằng 1 hành động nhỏ",
+      "Thu thập câu hỏi chưa trả lời"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 9,
+    "vi": "LP 7 × EX 9 – Triết gia thực dụng. Bạn đi tìm chân lý cá nhân (7) và chia sẻ dưới góc nhìn chữa lành–nhân bản (9). Mấu chốt: neo đất bằng thói quen cơ thể để trực giác không trôi nổi.",
+    "en": "LP 7 × EX 9 — Practical sage. Ground intuition with body routines; make compassion operational.",
+    "habits": [
+      "Thức–ngủ đều đặn",
+      "Thực hành thân–tâm 20’/ngày",
+      "Nhật ký trực giác & kiểm chứng",
+      "Hoạt động cộng đồng 1/tháng",
+      "Giới hạn tư biện: 1h/ngày",
+      "Thiết kế can thiệp nhỏ, đo lường được",
+      "Nghỉ digital 1 ngày/tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 3,
+    "vi": "LP 8 × EX 3 – Quản trị biết kể chuyện. 8 cho sức mạnh tổ chức, 3 khuếch đại ảnh hưởng bằng ngôn từ–hình ảnh. Rủi ro: PR che mờ sự thật. Phương châm: để số liệu nói trước, câu chuyện theo sau.",
+    "en": "LP 8 × EX 3 — Metrics first, story second. Influence without spin.",
+    "habits": [
+      "Dashboard công khai chỉ số chính",
+      "Story brief: số liệu → bối cảnh → hành động",
+      "Media training hàng quý",
+      "Quy tắc minh bạch khi sai",
+      "Đo lường cảm xúc khán giả (survey ngắn)",
+      "Mentor phát ngôn viên kế cận",
+      "Retro sau mỗi chiến dịch"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 2,
+    "vi": "LP 8 × EX 2 – Thủ lĩnh hoà giải. Bạn mạnh về kết quả nhưng chọn cách thể hiện bằng ngoại giao. Thách thức: dứt khoát khi cần. Cài đặt ngưỡng kích hoạt “quyền hạn cứng” dựa trên dữ liệu.",
+    "en": "LP 8 × EX 2 — Diplomatic leader. Define data‑based triggers for hard authority.",
+    "habits": [
+      "Bộ tiêu chí ra quyết định khẩn",
+      "Vai trò & ranh giới rõ trong họp",
+      "Checklist trước xung đột (mục tiêu–dữ liệu–lựa chọn)",
+      "Debrief không cảm tính",
+      "Huấn luyện dũng khí giao tiếp",
+      "KPI kết quả lẫn sức khoẻ đội",
+      "Thời gian tách suy nghĩ 15’ trước email khó"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 9,
+    "ex": 6,
+    "vi": "LP 9 × EX 6 – Phụng sự qua chăm sóc. Trọng tâm là chữa lành mối quan hệ và không gian sống/làm việc. Tránh hy sinh mù quáng bằng chỉ số ranh giới: thời lượng, ngân sách, cảm xúc.",
+    "en": "LP 9 × EX 6 — Serve through care. Track boundaries: time, budget, emotional load.",
+    "habits": [
+      "Thời lượng tối đa/khách hàng/ngày",
+      "Ngân sách giúp đỡ/tháng",
+      "Bài tập đóng dự án đúng hạn",
+      "Chu kỳ dọn dẹp không gian làm việc",
+      "Tự chăm sóc bắt buộc mỗi ngày",
+      "Giới hạn email sau 18:30",
+      "Supervision/đồng hành nghề 2 tuần/lần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 9,
+    "ex": 1,
+    "vi": "LP 9 × EX 1 – Nhà cải cách hành động. Tinh thần nhân bản (9) đi cùng triển khai quyết liệt (1). Cạm bẫy: nóng nảy đạo đức. Cách làm: biến lý tưởng thành dự án thực nghiệm có mốc đo, tránh khẩu hiệu.",
+    "en": "LP 9 × EX 1 — Actionable idealism. Turn ideals into measured experiments; avoid moral grandstanding.",
+    "habits": [
+      "Thiết kế can thiệp 4 tuần với KPI",
+      "Stakeholder map & buy‑in",
+      "Thông điệp ngắn 1 câu",
+      "Ngân sách nhỏ để học nhanh",
+      "Nhật ký học sai lầm",
+      "Demo định kỳ cho cộng đồng hưởng lợi",
+      "Nghỉ tạm khi cảm xúc quá tải"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 11,
+    "ex": 2,
+    "vi": "LP 11 × EX 2 – Trực giác biết hoà giải. Bạn cảm năng lượng tinh tế và biểu đạt bằng lắng nghe–điều phối. Nguy cơ: quá tải cảm xúc. Neo đất qua thói quen cơ thể và quy tắc “chậm lại trước khi nói thay”.",
+    "en": "LP 11 × EX 2 — Intuitive mediator. Slow down before speaking for others; ground via body routines.",
+    "habits": [
+      "Thiền thở 10’ sáng/tối",
+      "Giới hạn phiên tư vấn/ngày",
+      "Ritual tách cảm xúc người khác",
+      "Note ranh giới: vai trò–trách nhiệm",
+      "Phản hồi phản chiếu (reflective listening)",
+      "Giãn cơ 5’ giữa các buổi",
+      "Supervision nghề 2 tuần/lần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 11,
+    "ex": 7,
+    "vi": "LP 11 × EX 7 – Đèn hải đăng tri thức. Trực giác gặp nghiên cứu tạo thành tầm nhìn soi đường. Hãy chuyển hoá linh cảm thành giả thuyết kiểm chứng; công bố khung khái niệm đơn giản, có ví dụ.",
+    "en": "LP 11 × EX 7 — Lighthouse thinker. Translate intuition into testable hypotheses and simple public frameworks.",
+    "habits": [
+      "Log trực giác → giả thuyết",
+      "Thử nghiệm nhỏ 1/tuần",
+      "Khung 1 trang cho mỗi chủ đề",
+      "Ví dụ minh hoạ bắt buộc",
+      "Giới hạn thuật ngữ chuyên môn",
+      "Nhịp nói chuyện công chúng hàng tháng",
+      "Nghỉ phục hồi cảm giác 1 ngày/tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 11,
+    "ex": 22,
+    "vi": "LP 11 × EX 22 – Tầm nhìn thành kiến trúc. 11 mang cảm hứng; 22 biến nó thành hệ thống ở quy mô. Đừng nhảy cóc từ ý tưởng tới triển khai lớn: đi qua bản vẽ nguyên tắc, mô hình kinh tế, và thiết kế vận hành.",
+    "en": "LP 11 × EX 22 — Vision into architecture. Move idea → principles → unit economics → ops design before scaling.",
+    "habits": [
+      "Bản nguyên tắc (operating principles) 1 trang",
+      "Unit economics sơ bộ",
+      "Thiết kế tổ chức đơn giản (RACI)",
+      "Thí điểm giới hạn phạm vi",
+      "Định nghĩa tiêu chuẩn chất lượng",
+      "Dashboard học thử nghiệm",
+      "Gate mở rộng theo dữ liệu"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 22,
+    "ex": 4,
+    "vi": "LP 22 × EX 4 – Kiến trúc sư hệ thống. Bản chất 22 yêu quy mô; 4 bảo đảm kỷ luật–độ tin cậy. Nguy cơ: cứng nhắc. Chừa không gian thử nghiệm có kiểm soát, và cơ chế phản hồi liên tục.",
+    "en": "LP 22 × EX 4 — System architect with discipline. Keep a controlled lab and continuous feedback loops.",
+    "habits": [
+      "Lab thử nghiệm với SLA rủi ro",
+      "Chu trình change management chuẩn",
+      "Design review hội đồng",
+      "Incident post‑mortem theo mẫu",
+      "Định kỳ thanh tra quy trình",
+      "Đào tạo kế cận kỹ thuật",
+      "Roadmap quý có buffer"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 22,
+    "ex": 11,
+    "vi": "LP 22 × EX 11 – Hệ thống có linh hồn. Bạn xây cái lớn nhưng vẫn giữ trực giác dẫn đường. Hãy tách vai: 11 cho định hướng, 22 cho cấu trúc; đừng để trực giác quyết mọi chi tiết vận hành.",
+    "en": "LP 22 × EX 11 — Scalable systems with soul. Separate roles: intuition for direction, structure for execution.",
+    "habits": [
+      "Ritual tầm nhìn hàng quý",
+      "Phiên chuyển hoá tầm nhìn → mục tiêu",
+      "Guardrails đạo đức trong thiết kế",
+      "Chỉ số tác động xã hội bên cạnh KPI",
+      "Board phản biện độc lập",
+      "Ngày nghe người dùng hàng tháng",
+      "Đặt giới hạn phạm vi rõ ràng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 22,
+    "ex": 8,
+    "vi": "LP 22 × EX 8 – Xây & vận hành. Bạn giỏi hiện thực hoá ở quy mô và điều hành theo kết quả. Tránh chìm vào quyền lực bằng cơ chế kiểm soát–cân bằng và minh bạch số liệu.",
+    "en": "LP 22 × EX 8 — Build and operate. Balance power with checks and transparent metrics.",
+    "habits": [
+      "Thiết kế quyền hạn–trách nhiệm rõ",
+      "KPI tầng tổ chức và cá nhân",
+      "Cadence báo cáo công khai",
+      "Ủy quyền có kiểm tra",
+      "Whistleblower channel bảo vệ",
+      "Đánh giá rủi ro định kỳ",
+      "Đào tạo đạo đức nghề"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 33,
+    "ex": 6,
+    "vi": "LP 33 × EX 6 – Người chữa lành qua chăm sóc đẹp. 33 đòi hỏi từ bi trưởng thành; 6 chú trọng không gian–thẩm mỹ–gia đình. Cái bẫy: tự xoá mình. Duy trì “từ bi với bản thân” như kỹ năng nghề.",
+    "en": "LP 33 × EX 6 — Compassion expressed as care and aesthetics. Protect self‑care as a professional skill.",
+    "habits": [
+      "Giờ tự chăm sóc bắt buộc mỗi ngày",
+      "Chu kỳ làm đẹp không gian sống",
+      "Giới hạn phạm vi giúp đỡ",
+      "Case conference với đồng nghiệp",
+      "Nhật ký cảm xúc sau ca khó",
+      "Ngày nghỉ phục hồi cảm xúc",
+      "Nhãn đỏ: dấu hiệu kiệt sức cá nhân"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 33,
+    "ex": 9,
+    "vi": "LP 33 × EX 9 – Người thầy chữa lành công ích. Bạn dạy–sống–làm gương (33) với tầm nhìn nhân bản (9). Dễ mắc “cứu thế chủ nghĩa”. Giải pháp: đo tác động thực, xây đội, và rút lui đúng lúc.",
+    "en": "LP 33 × EX 9 — Healer‑teacher for the commons. Measure real impact, build successors, exit at the right time.",
+    "habits": [
+      "Thiết kế chương trình mentoring",
+      "Chỉ số tác động xã hội",
+      "Đào tạo người kế cận",
+      "Quy tắc không cứu hộ cảm xúc",
+      "Lịch nghỉ nghiêm túc sau chiến dịch",
+      "Vòng phản hồi người thụ hưởng",
+      "Checklist rút lui an toàn"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 5,
+    "su": 4,
+    "vi": "LP 5 × SU 4 – Tự do được neo bằng kỷ luật. Trái tim 4 cần cảm giác trật tự để 5 phát triển bền. Thiết kế nghi thức tối thiểu (giấc ngủ, ăn, vận động) như “chiếc neo” cho khám phá.",
+    "en": "LP 5 × SU 4 — Freedom anchored by structure. Minimal rituals stabilize exploration.",
+    "habits": [
+      "Ngủ–ăn–vận động cố định khung giờ",
+      "Checklist 15’ mở/ngày",
+      "Ngày tự do có mục tiêu đo được",
+      "Giới hạn chất kích thích",
+      "Kế hoạch rủi ro trước mỗi trải nghiệm",
+      "Weekly review giữ–bỏ thói quen",
+      "Buddy accountability 2 lần/tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 1,
+    "su": 2,
+    "vi": "LP 1 × SU 2 – Quyết đoán nhân ái. Trái tim 2 nhắc bạn lắng nghe trước khi hành động 1. Hỏi: “mối quan hệ nào quan trọng nhất lúc này?” rồi quyết nhanh.",
+    "en": "LP 1 × SU 2 — Decisive yet humane: listen first, then act.",
+    "habits": [
+      "Checklist lắng nghe 3 bước",
+      "1–1 quan trọng mỗi tuần",
+      "Khoảng dừng 10’ trước quyết định khó",
+      "Email khó: nháp rồi gửi sau 12h",
+      "Đặt ranh giới lịch để tránh quá tải",
+      "Xác nhận kỳ vọng bằng văn bản",
+      "Nhật ký xung đột & học được"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "su": 3,
+    "vi": "LP 7 × SU 3 – Nội quán được nạp bằng niềm vui biểu đạt. Học sâu nhưng đừng im lặng: chia sẻ phiên bản chưa hoàn hảo, lấy phản hồi để điều chỉnh hướng.",
+    "en": "LP 7 × SU 3 — Depth fueled by joyful expression. Share drafts early to steer.",
+    "habits": [
+      "Open notebook: công khai ghi chú chọn lọc",
+      "Demo 10’ hàng tuần",
+      "Storybank ví dụ cá nhân",
+      "Giới hạn chỉnh sửa vòng lặp (3 lần)",
+      "Lịch ‘no-perfect day’ để đăng thử",
+      "Nhóm học tập nhỏ 3–5 người",
+      "Checklist đóng gói kiến thức"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "su": 9,
+    "vi": "LP 8 × SU 9 – Quyền lực có mục đích nhân bản. Dùng ảnh hưởng để tạo hệ sinh thái công bằng hơn. Thiết kế chỉ số đạo đức–xã hội song hành KPI tài chính.",
+    "en": "LP 8 × SU 9 — Power with purpose. Pair financial KPIs with ethical/social metrics.",
+    "habits": [
+      "ESG mini‑dashboard",
+      "Quỹ cộng đồng % doanh thu",
+      "Chính sách minh bạch lương bổng",
+      "Quy tắc xung đột lợi ích",
+      "Chương trình học bổng/mentoring",
+      "Đánh giá tác động hàng quý",
+      "Ủy ban đạo đức độc lập"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 9,
+    "su": 6,
+    "vi": "LP 9 × SU 6 – Phụng sự bền nhờ chăm sóc. Trái tim 6 yêu cầu sự ấm áp cụ thể: không gian, lịch, bữa ăn, nghi thức. Đặt lịch chăm mình trước khi chăm người.",
+    "en": "LP 9 × SU 6 — Sustainable service via care. Schedule self‑care before other‑care.",
+    "habits": [
+      "Lịch bữa ăn & ngủ nghiêm túc",
+      "Giờ gia đình bất khả xâm phạm",
+      "Kiểm tra ranh giới cảm xúc hàng tuần",
+      "Giảm bớt khách hàng không phù hợp",
+      "Nhật ký biết ơn mỗi tối",
+      "Ngày trắng không cam kết/tháng",
+      "Kế hoạch thay phiên trong đội"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "researcher",
+      "ux_researcher"
+    ],
+    "vi": "Nghiên cứu (LP7×EX3): chuyển tri thức phức tạp thành cấu trúc dễ hiểu. Vòng lặp: giả thuyết → thử nghiệm nhỏ → báo cáo có ví dụ → khuyến nghị.",
+    "en": "Researcher (LP7×EX3): translate complexity into clarity; loop hypothesis → small test → exampled report → recommendation.",
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Sổ giả thuyết/nhật ký thí nghiệm",
+      "Peer review mỗi 2 tuần",
+      "Báo cáo 1 trang có ví dụ",
+      "Backlog câu hỏi người dùng",
+      "Giới hạn thuật ngữ chuyên môn",
+      "Demo nội bộ hàng tháng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "teacher"
+    ],
+    "vi": "Giáo viên (LP6×EX3): nuôi dưỡng qua ngôn ngữ sống động. Thiết kế bài học: mục tiêu hành vi → hoạt động → đánh giá ngắn.",
+    "en": "Teacher (LP6×EX3): nurture through vivid language; lesson = behavioral goal → activity → quick assessment.",
+    "habits": [
+      "Lesson plan 1 trang",
+      "Ví dụ đời thực mỗi buổi",
+      "Phản hồi 2 chiều cuối giờ",
+      "Rubric 3 mức rõ ràng",
+      "Sổ theo dõi tiến bộ",
+      "Thói quen tên riêng học sinh",
+      "Retro tuần: giữ/bỏ/đổi"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 33,
+    "ex": 6,
+    "su": null,
+    "roles": [
+      "therapist"
+    ],
+    "vi": "Nhà trị liệu (LP33×EX6): chữa lành qua không gian an toàn–đẹp. Giữ ranh giới chuyên môn, lộ trình can thiệp có mục tiêu đo được.",
+    "en": "Therapist (LP33×EX6): healing via safe, aesthetic space; keep boundaries and measurable treatment plans.",
+    "habits": [
+      "Khung buổi 50’ + 10’ note",
+      "Mục tiêu SMART cho ca",
+      "Supervision 2 tuần/lần",
+      "Checklist ranh giới nghề",
+      "Bảng chỉ báo nguy cơ",
+      "Tự chăm sóc sau ca khó",
+      "Tiến trình/điểm nút theo quý"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 1,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "product_manager",
+      "founder"
+    ],
+    "vi": "PM/Founder (LP1×EX7): quyết định nhanh dựa trên hiểu biết sâu. PRD gọn: vấn đề–khán giả–giả thuyết–MVP–metric.",
+    "en": "PM/Founder (LP1×EX7): fast decisions from deep insight; PRD = problem–audience–hypothesis–MVP–metric.",
+    "habits": [
+      "PRD 1–2 trang",
+      "Discovery 5 cuộc gọi/tuần",
+      "MVP trong 2 tuần",
+      "Metric vệ tinh/nhân vật chính",
+      "Demo thứ Sáu",
+      "Retro khách hàng hàng tuần",
+      "Decision log 5 dòng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "software_engineer"
+    ],
+    "vi": "SWE (LP4×EX7): kỹ luật kỹ thuật + tư duy hệ thống. Tài liệu hoá nguyên tắc, viết test trước (TDD), review cặp.",
+    "en": "Software Engineer (LP4×EX7): disciplined systems thinking; document principles, TDD, pair review.",
+    "habits": [
+      "TDD tối thiểu cho module mới",
+      "Design doc 1 trang trước build",
+      "Pair review mỗi PR",
+      "SLO/SLA trong code",
+      "Observability: logs/metrics/traces",
+      "Refactor 10% thời gian",
+      "Runbook sự cố"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "data_scientist"
+    ],
+    "vi": "Data Scientist (LP7×EX4): truy vấn sự thật + đóng gói có cấu trúc. Pipeline có kiểm soát phiên bản, notebook sạch, báo cáo tái lập.",
+    "en": "Data Scientist (LP7×EX4): truth-seeking with structured packaging; versioned pipelines, clean notebooks, reproducible reports.",
+    "habits": [
+      "DVC/MLflow theo dõi thí nghiệm",
+      "Notebook chuẩn PEP8",
+      "Dataset card & model card",
+      "A/B nhỏ trước rollout",
+      "Bias/variance checklist",
+      "Kênh phản biện thiết kế",
+      "Lịch xoá dữ liệu nhạy cảm"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "ceo",
+      "coo"
+    ],
+    "vi": "CEO/COO (LP8×EX3): quản trị bằng câu chuyện chân thực. Số liệu dẫn dắt, câu chuyện thuyết phục; minh bạch sai lầm.",
+    "en": "CEO/COO (LP8×EX3): manage with honest storytelling; metrics first, story second; be transparent on mistakes.",
+    "habits": [
+      "All‑hands hàng tháng",
+      "Dashboard công khai",
+      "Story brief: số liệu→bối cảnh→hành động",
+      "Policy minh bạch lỗi",
+      "Kế hoạch kế thừa",
+      "Mentor phát ngôn viên",
+      "Khảo sát cảm xúc đội"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 8,
+    "su": null,
+    "roles": [
+      "hr_leader"
+    ],
+    "vi": "HR Leader (LP6×EX8): hệ thống hoá sự quan tâm. Chính sách rõ, feedback an toàn, đo sức khoẻ tổ chức.",
+    "en": "HR Leader (LP6×EX8): systemize care; clear policies, safe feedback, measure org health.",
+    "habits": [
+      "Sổ tay nhân sự",
+      "Pulse survey ngắn",
+      "Kênh ẩn danh an toàn",
+      "Khung năng lực & lộ trình",
+      "Quy trình on/offboarding",
+      "Training quản lý ranh giới",
+      "SLA nội bộ"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 11,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "coach",
+      "consultant"
+    ],
+    "vi": "Coach/Consultant (LP11×EX2): trực giác + điều phối. Hợp đồng mục tiêu rõ, giữ ranh giới, đo tiến bộ từng phiên.",
+    "en": "Coach/Consultant (LP11×EX2): intuition with facilitation; clear goal contracts, boundaries, session-by-session progress.",
+    "habits": [
+      "Hợp đồng mục tiêu (coaching contract)",
+      "Bảng theo dõi tiến bộ",
+      "Phản chiếu lắng nghe",
+      "Giới hạn giờ tư vấn/ngày",
+      "Bài tập nhỏ giữa buổi",
+      "Đánh giá cuối chặng",
+      "Supervision định kỳ"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "artist",
+      "writer",
+      "content_creator"
+    ],
+    "vi": "Sáng tạo (LP3×EX4): ý tưởng nhiều nhưng cần guồng máy sản xuất. Lịch phát hành cố định, checklist biên tập, kho mẫu.",
+    "en": "Creative (LP3×EX4): many ideas need a production machine; fixed release calendar, edit checklist, templates.",
+    "habits": [
+      "Lịch phát hành 2 lần/tuần",
+      "Checklist biên tập 10 bước",
+      "Kho template tiêu đề/mở bài",
+      "Ngân hàng ví dụ minh hoạ",
+      "Sprint 7 ngày/tác phẩm",
+      "Giới hạn kênh đăng",
+      "Retro số liệu/tháng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 9,
+    "su": null,
+    "roles": [
+      "policy_analyst"
+    ],
+    "vi": "Policy Analyst (LP7×EX9): phân tích vì lợi ích cộng đồng. Cân bằng số liệu với câu chuyện người thật; khuyến nghị khả thi.",
+    "en": "Policy Analyst (LP7×EX9): analysis for public good; balance data with lived stories; actionable recommendations.",
+    "habits": [
+      "Ma trận bằng chứng",
+      "Phỏng vấn người thụ hưởng",
+      "1 trang policy brief",
+      "Thử nghiệm/pilot nhỏ",
+      "Stakeholder map",
+      "Chỉ số tác động xã hội",
+      "Minh bạch giới hạn dữ liệu"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 5,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "marketing_lead"
+    ],
+    "vi": "Marketing Lead (LP5×EX3): kể chuyện thích nghi. Test nhanh thông điệp, học nhanh; đừng lạm dụng chiêu, giữ đạo đức.",
+    "en": "Marketing Lead (LP5×EX3): adaptive storytelling; test fast, learn fast; keep ethics.",
+    "habits": [
+      "A/B 2 thông điệp/tuần",
+      "Bảng nguyên tắc đạo đức",
+      "Lịch chiến dịch quý",
+      "Brand voice guide",
+      "User interview 5/tuần",
+      "Dashboard cảm xúc khán giả",
+      "Post‑mortem chiến dịch"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "sales_lead"
+    ],
+    "vi": "Sales Lead (LP8×EX2): chốt bằng hiểu người. Kịch bản hỏi đúng, CRM sạch, dự báo dựa dữ liệu.",
+    "en": "Sales Lead (LP8×EX2): close with empathy; sharp questioning, clean CRM, data-driven forecasting.",
+    "habits": [
+      "Khung SPIN/BANT",
+      "CRM cập nhật hằng ngày",
+      "Forecast hàng tuần",
+      "Review deal thua học bài học",
+      "Call script theo ngành",
+      "Chỉ số đạo đức bán hàng",
+      "Nghi thức phục hồi năng lượng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "designer"
+    ],
+    "vi": "Designer (LP6×EX3): chăm trải nghiệm đẹp và có ích. Quy trình: nghiên cứu bối cảnh → khung trải nghiệm → kiểm chứng người dùng.",
+    "en": "Designer (LP6×EX3): caring for useful beauty; context research → experience framework → user validation.",
+    "habits": [
+      "Bản đồ hành trình người dùng",
+      "Thiết kế accessibility",
+      "Design critique hàng tuần",
+      "Kho pattern dùng lại",
+      "Test 5 người/phiên",
+      "Spec/hand‑off rõ ràng",
+      "Chỉ số trải nghiệm (CSAT/NPS)"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 7,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "ux_researcher"
+    ],
+    "vi": "UX Researcher (LP7×EX2): khám phá dựa trên đối thoại. Hỏi ít mà trúng; tổng hợp insight thành quyết định thiết kế.",
+    "en": "UX Researcher (LP7×EX2): discovery via dialogue; fewer, better questions; synthesize into design decisions.",
+    "habits": [
+      "Guide phỏng vấn ngắn",
+      "Bản tổng hợp insight 1 trang",
+      "Repository nghiên cứu có thẻ",
+      "Kho mẫu câu hỏi mở",
+      "Read‑out đa tầng (PM/Design/Eng)",
+      "Quy tắc đạo đức nghiên cứu",
+      "Lịch lặp lại chủ đề theo quý"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 22,
+    "ex": 11,
+    "su": null,
+    "roles": [
+      "founder",
+      "ceo"
+    ],
+    "vi": "Founder/CEO (LP22×EX11): hệ thống có linh hồn. Biến tầm nhìn thành cấu trúc bền; đo cả tác động xã hội và tài chính.",
+    "en": "Founder/CEO (LP22×EX11): systems with soul; turn vision into durable structure; track social + financial impact.",
+    "habits": [
+      "Principles 1 trang",
+      "Thiết kế tổ chức tối giản",
+      "Board phản biện độc lập",
+      "Kế hoạch kế thừa lãnh đạo",
+      "Chỉ số tác động song hành KPI",
+      "Ngày nghe người dùng",
+      "Gate mở rộng dựa dữ liệu"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 11,
+    "ex": 3,
+    "su": null,
+    "roles": [
+      "teacher",
+      "coach"
+    ],
+    "vi": "Giáo viên/Coach (LP11×EX3): truyền cảm hứng có khung. Bài học/nghi thức dẫn nhập chạm trí–cảm; kết thúc bằng hành động nhỏ.",
+    "en": "Teacher/Coach (LP11×EX3): inspiring structure; open with meaning, close with a small action.",
+    "habits": [
+      "Hook 2’ đầu buổi",
+      "Story/example phù hợp",
+      "Bài tập nhỏ tại lớp",
+      "Form phản hồi nhanh",
+      "Theo dõi tiến bộ cá nhân",
+      "Chu kỳ ôn tập 7/30 ngày",
+      "Tài liệu 1 trang mang về"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 1,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "consultant",
+      "policy_analyst"
+    ],
+    "vi": "Consultant/Policy (LP1×EX4): kết luận rõ + đóng gói mạch lạc. Executive summary trước, phụ lục sau.",
+    "en": "Consultant/Policy (LP1×EX4): clear conclusions, structured packaging; exec summary first, appendix later.",
+    "habits": [
+      "Executive summary 1 trang",
+      "Khung khuyến nghị SMART",
+      "Ma trận rủi ro",
+      "Stakeholder map",
+      "Timeline phased",
+      "Checklist triển khai",
+      "Đo lường sau can thiệp"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 5,
+    "su": null,
+    "roles": [
+      "marketing_lead",
+      "content_creator"
+    ],
+    "vi": "Marketing/Content (LP3×EX5): kể chuyện qua trải nghiệm. Bảo vệ nhịp sản xuất, tránh quá đà.",
+    "en": "Marketing/Content (LP3×EX5): experiential storytelling; protect cadence, avoid excess.",
+    "habits": [
+      "Calendar nội dung cố định",
+      "Giới hạn kênh (≤3)",
+      "A/B chủ đề/tuần",
+      "Kho ví dụ sống",
+      "Checklist pháp lý/đạo đức",
+      "Bộ chỉ số chất lượng",
+      "Retro tháng theo dữ liệu"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "sales_lead",
+      "product_manager"
+    ],
+    "vi": "Sales/PM (LP8×EX2): ảnh hưởng thông minh cảm xúc. Lắng nghe quyết định hướng sản phẩm/chốt deal.",
+    "en": "Sales/PM (LP8×EX2): emotionally intelligent influence; listening steers product and deals.",
+    "habits": [
+      "Top 10 câu hỏi khám phá",
+      "CRM + research hub liên thông",
+      "Weekly deal/product review",
+      "Tín hiệu rủi ro sớm",
+      "Demo ngắn thường kỳ",
+      "Qual + quant song song",
+      "Nghỉ phục hồi năng lượng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "investor",
+      "financial_analyst"
+    ],
+    "vi": "Nhà đầu tư/Phân tích tài chính (LP8×EX7): kết hợp kỷ luật vốn với tư duy nghiên cứu. Luồng công việc: luận điểm → mô hình → kịch bản rủi ro → quyết định có kỷ luật (vào/ra).",
+    "en": "Investor/Financial Analyst (LP8×EX7): disciplined capital with research rigor; thesis → model → risk scenarios → disciplined entry/exit.",
+    "habits": [
+      "Luận điểm 1 trang/ý tưởng",
+      "Mô hình giả định minh bạch",
+      "Kỷ luật vào/ra theo tín hiệu",
+      "Nhật ký sai lệch nhận thức",
+      "Bảng kịch bản (base/bear/bull)",
+      "Risk budget theo danh mục",
+      "Retro quý theo dữ liệu"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "accountant",
+      "financial_planner"
+    ],
+    "vi": "Kế toán/Lập kế hoạch tài chính (LP4×EX2): trật tự số liệu + giao tiếp mềm. Tiêu chuẩn hoá báo cáo, bản đồ mục tiêu khách hàng, ranh giới đạo đức nghề.",
+    "en": "Accountant/Financial Planner (LP4×EX2): orderly numbers + soft communication; standardized reporting, client goal mapping, ethical boundaries.",
+    "habits": [
+      "Checklist đóng kỳ",
+      "Sổ tay chuẩn hoá biểu mẫu",
+      "Cuộc gọi định kỳ theo quý",
+      "Chính sách độc lập tư vấn",
+      "Bản đồ mục tiêu/tài sản khách hàng",
+      "Cảnh báo sớm sai sót",
+      "Đào tạo thay đổi chuẩn mực"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 8,
+    "su": null,
+    "roles": [
+      "project_manager"
+    ],
+    "vi": "Project Manager (LP4×EX8): điều phối kỷ luật với kết quả. Gantt vừa đủ, họp ngắn, risk log sống; quyền hạn rõ.",
+    "en": "Project Manager (LP4×EX8): disciplined coordination towards outcomes; lean Gantt, short standups, living risk log, clear authority.",
+    "habits": [
+      "Standup 15’/ngày",
+      "Risk log cập nhật",
+      "RACI cho từng mốc",
+      "Sprint review/retrospective",
+      "Change control nhẹ",
+      "Dashboard tiến độ công khai",
+      "Nghỉ phục hồi đội sau mốc lớn"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 1,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "lawyer"
+    ],
+    "vi": "Luật sư (LP1×EX4): kết luận rõ ràng + lập luận có cấu trúc. Tài liệu hoá lập luận, kiểm tra rủi ro, đạo đức hành nghề.",
+    "en": "Lawyer (LP1×EX4): clear conclusions and structured reasoning; document arguments, risk checks, legal ethics.",
+    "habits": [
+      "Brief 1 trang/ vụ việc",
+      "Ma trận rủi ro pháp lý",
+      "Checklist xung đột lợi ích",
+      "Thư viện án lệ gắn thẻ",
+      "Peer review trước nộp",
+      "Quản lý kỳ vọng khách hàng",
+      "Hồi cứu sau phiên toà"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "doctor"
+    ],
+    "vi": "Bác sĩ (LP6×EX4): chăm sóc ấm áp trong khung kỷ luật. Chẩn đoán dựa bằng chứng, giao tiếp rõ, checklist an toàn người bệnh.",
+    "en": "Doctor (LP6×EX4): warm care within disciplined protocols; evidence-based diagnosis, clear communication, patient-safety checklists.",
+    "habits": [
+      "SBAR giao tiếp ca",
+      "Checklist an toàn phẫu thuật",
+      "Hẹn follow-up chuẩn",
+      "Giới hạn ca/ngày bảo vệ sức khoẻ",
+      "Bảng đồng thuận thông tin",
+      "Ghi chép có cấu trúc",
+      "Phiên mô phỏng tình huống"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "nurse"
+    ],
+    "vi": "Y tá (LP6×EX2): trái tim phục vụ + điều phối mềm. Lịch thuốc/điều dưỡng chuẩn, ghi nhận sự cố, chăm thân–tâm gia đình.",
+    "en": "Nurse (LP6×EX2): service heart + soft coordination; standardized meds/care schedule, incident recording, family-minded care.",
+    "habits": [
+      "MAR/Lịch thuốc chuẩn",
+      "Báo cáo sự cố không đổ lỗi",
+      "Bảng nhu cầu thân–tâm",
+      "Brief gia đình 5’",
+      "Vệ sinh bàn tay nghiêm ngặt",
+      "Giới hạn ca kéo dài",
+      "Debrief ca khó với đội"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "security_engineer"
+    ],
+    "vi": "Security Engineer (LP4×EX7): kỷ luật hệ thống + điều tra nguyên nhân. Ưu tiên prevention; mô phỏng tấn công và runbook ứng phó.",
+    "en": "Security Engineer (LP4×EX7): systemic discipline + root-cause sleuthing; prevention first, attack simulations, incident runbooks.",
+    "habits": [
+      "Threat modeling theo quý",
+      "Tabletop exercise hàng tháng",
+      "Runbook sự cố cập nhật",
+      "CIS benchmarks check",
+      "Theo dõi CVE và patch window",
+      "Chaos security game day",
+      "Báo cáo rủi ro cho lãnh đạo"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 4,
+    "ex": 5,
+    "su": null,
+    "roles": [
+      "devops_engineer"
+    ],
+    "vi": "DevOps (LP4×EX5): ổn định gặp linh hoạt. IaC, CI/CD, rollback nhanh; SLO rõ và cảnh báo có ý nghĩa.",
+    "en": "DevOps (LP4×EX5): stability meets agility; IaC, CI/CD, fast rollback; clear SLOs and meaningful alerts.",
+    "habits": [
+      "IaC review định kỳ",
+      "Runbook phát hành",
+      "Canary + rollback",
+      "SLO/SLA hiển thị công khai",
+      "Oncall playbook",
+      "Post‑mortem blameless",
+      "Load test hàng tháng"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 8,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "operations_manager",
+      "supply_chain_manager"
+    ],
+    "vi": "Vận hành/Chuỗi cung ứng (LP8×EX4): tối ưu chi phí‑dịch vụ trong khung kiểm soát. KPI kép (chi phí & chất lượng), quy trình backup.",
+    "en": "Operations/Supply Chain (LP8×EX4): cost‑service optimization within control; twin KPIs, backup processes.",
+    "habits": [
+      "SOP chuẩn & kiểm định",
+      "Bản đồ rủi ro nhà cung cấp",
+      "KPI kép + dashboard",
+      "Kiểm kê định kỳ",
+      "Kế hoạch dự phòng cấp 1/2",
+      "Đánh giá nhà cung cấp",
+      "Kaizen hàng tuần"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "musician",
+      "composer"
+    ],
+    "vi": "Nhạc sĩ/Composer (LP3×EX7): cảm hứng + nghiên cứu âm thanh. Chu trình soạn–nghiệm–biên tập; kho motif và reference rõ ràng.",
+    "en": "Musician/Composer (LP3×EX7): inspiration + sonic research; compose–experiment–edit cycle; motif/reference library.",
+    "habits": [
+      "Giờ luyện tập cố định",
+      "Sketch motif mỗi ngày",
+      "A/B phối khí nhỏ",
+      "Thư viện reference gắn thẻ",
+      "Phiên nghe phê bình",
+      "Sổ cảm xúc ca khúc",
+      "Lịch biểu diễn/thu âm"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 3,
+    "ex": 8,
+    "su": null,
+    "roles": [
+      "filmmaker",
+      "photographer"
+    ],
+    "vi": "Filmmaker/Photographer (LP3×EX8): kể chuyện bằng hình ảnh hiệu quả. Kế hoạch tiền kỳ–hậu kỳ, bảng phân cảnh, quyền ảnh.",
+    "en": "Filmmaker/Photographer (LP3×EX8): efficient visual storytelling; pre/post‑production plan, storyboard, rights management.",
+    "habits": [
+      "Storyboard/shotlist",
+      "Kế hoạch ánh sáng & âm",
+      "Checklist pháp lý bản quyền",
+      "Backup 3‑2‑1 dữ liệu",
+      "Lịch hậu kỳ",
+      "Review màu & âm thanh",
+      "Bài học sau dự án"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 6,
+    "ex": 2,
+    "su": null,
+    "roles": [
+      "customer_support_lead"
+    ],
+    "vi": "Customer Support Lead (LP6×EX2): chăm sóc cảm thông + quy trình mạch lạc. SLA phản hồi, kho tri thức, vòng phản hồi sản phẩm.",
+    "en": "Customer Support Lead (LP6×EX2): empathic care + crisp process; response SLAs, knowledge base, product feedback loop.",
+    "habits": [
+      "Playbook tình huống",
+      "SLA theo mức độ",
+      "Kho tri thức sống",
+      "CSAT/NPS theo quý",
+      "Escalation rõ ràng",
+      "Huấn luyện xử lý cảm xúc",
+      "Bảng mẫu trả lời"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 22,
+    "ex": 4,
+    "su": null,
+    "roles": [
+      "civil_engineer",
+      "architect"
+    ],
+    "vi": "Kỹ sư xây dựng/Kiến trúc sư (LP22×EX4): tư duy quy mô + kỷ luật kỹ thuật. Tiêu chuẩn an toàn, kiểm định, và đạo đức nghề nghiệp.",
+    "en": "Civil Engineer/Architect (LP22×EX4): scale mindset + technical discipline; safety standards, inspections, professional ethics.",
+    "habits": [
+      "Checklist an toàn công trường",
+      "Kiểm định theo mốc",
+      "Phê duyệt thiết kế đồng cấp",
+      "Quản lý thay đổi nghiêm",
+      "Tài liệu hoá vật liệu/nhà thầu",
+      "Giám sát rủi ro địa phương",
+      "Bài học sau công trình"
+    ],
+    "signature": true
+  },
+  {
+    "lp": 5,
+    "ex": 7,
+    "su": null,
+    "roles": [
+      "trader"
+    ],
+    "vi": "Trader (LP5×EX7): linh hoạt + kỷ luật giả thuyết. Plan trade / trade plan; quản trị rủi ro theo xác suất, không theo cảm xúc.",
+    "en": "Trader (LP5×EX7): agility + hypothesis discipline; plan the trade, trade the plan; probability‑based risk, not emotions.",
+    "habits": [
+      "Kế hoạch giao dịch trước phiên",
+      "Quy tắc vào/ra viết rõ",
+      "Risk per trade cố định",
+      "Nhật ký giao dịch & tâm lý",
+      "Checklist tránh over‑trade",
+      "Backtest định kỳ",
+      "Retro tuần theo số"
+    ],
+    "signature": true
+  }
+]
