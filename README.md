@@ -19,9 +19,14 @@ python3 -m http.server 5500 -d docs
 Then open http://localhost:5500
 
 Deploy to GitHub Pages
-1) Push changes to the main branch.
-2) GitHub Actions will publish docs/ to GitHub Pages automatically.
-3) The live URL will appear in the Actions log (environment: github-pages) and under Settings → Pages.
+Option A (recommended – branch gh-pages):
+1) Push changes to main.
+2) Workflow gh-pages.yml publishes docs/ to the gh-pages branch.
+3) In Settings → Pages, set Source = Deploy from a branch, Branch = gh-pages / (root).
+4) Your site url: https://<username>.github.io/Thansohoc/
+
+Option B (Pages build & deploy):
+If you prefer the official pages workflow (pages.yml), ensure the repository has Pages enabled for GitHub Actions. If Setup Pages step fails, switch to Option A.
 
 Notes
 - The previous FastAPI backend has been removed from the deployable surface. All calculations are now done on the client.

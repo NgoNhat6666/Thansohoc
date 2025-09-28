@@ -1,0 +1,216 @@
+{
+  "1": {
+    "theme": "Khởi động & Gieo hạt",
+    "strengths": [
+      "Chọn 1 hướng rõ",
+      "Dám bắt đầu"
+    ],
+    "pitfalls": [
+      "Nóng vội, ôm đồm",
+      "Sợ bắt đầu vì cầu toàn"
+    ],
+    "habits": [
+      "Top-1 ưu tiên mỗi sáng",
+      "Decision log 5 dòng/ngày",
+      "Bước nhỏ 'ship' mỗi 48h"
+    ],
+    "metrics": [
+      "Số quyết định đã ghi log/tuần",
+      "Số lần 'ship' nhỏ/tháng"
+    ],
+    "next_year": {
+      "year": 2,
+      "bridge": "Chuẩn bị cho 2: sau khi khởi động, học kiên nhẫn & liên kết.",
+      "caution": "Đừng đốt cầu; duy trì các mối quan hệ mầm non."
+    }
+  },
+  "2": {
+    "theme": "Nuôi dưỡng & Liên kết",
+    "strengths": [
+      "Kiên nhẫn, xây quan hệ",
+      "Hợp tác khôn ngoan"
+    ],
+    "pitfalls": [
+      "Phụ thuộc cảm xúc",
+      "Ngại ranh giới"
+    ],
+    "habits": [
+      "1–1 định kỳ",
+      "Khung phản hồi SBI",
+      "Giờ không làm việc sau 19:00"
+    ],
+    "metrics": [
+      "Số buổi 1–1/tháng",
+      "Tỉ lệ phản hồi SBI áp dụng"
+    ],
+    "next_year": {
+      "year": 3,
+      "bridge": "Chuẩn bị cho 3: chia sẻ kết quả nhỏ đều đặn.",
+      "caution": "Tránh lệ thuộc cảm xúc khi cần lên tiếng."
+    }
+  },
+  "3": {
+    "theme": "Biểu đạt & Kể chuyện",
+    "strengths": [
+      "Niềm vui, sáng tạo",
+      "Khuếch đại tiếng nói"
+    ],
+    "pitfalls": [
+      "Lan man, bốc đồng"
+    ],
+    "habits": [
+      "Lịch phát hành cố định",
+      "Checklist biên tập",
+      "Journaling 10’"
+    ],
+    "metrics": [
+      "Bài đăng/tuần",
+      "Tỉ lệ nội dung đạt mục tiêu"
+    ],
+    "next_year": {
+      "year": 4,
+      "bridge": "Chuẩn bị cho 4: đóng gói quy trình cho ý tưởng đang chạy.",
+      "caution": "Đừng chỉ nói—hãy chuẩn hoá cách làm."
+    }
+  },
+  "4": {
+    "theme": "Xây nền & Kỷ luật",
+    "strengths": [
+      "Ổn định, bền bỉ",
+      "Tối ưu hệ thống"
+    ],
+    "pitfalls": [
+      "Cứng nhắc, trì trệ"
+    ],
+    "habits": [
+      "Pomodoro 25/5",
+      "Weekly review",
+      "Chuẩn hoá checklist"
+    ],
+    "metrics": [
+      "Chu kỳ pomodoro/ngày",
+      "Tỉ lệ checklist hoàn tất"
+    ],
+    "next_year": {
+      "year": 5,
+      "bridge": "Chuẩn bị cho 5: hoàn thiện dang dở trước khi đổi mới.",
+      "caution": "Đừng bứt khỏi nền tảng quá sớm."
+    }
+  },
+  "5": {
+    "theme": "Thay đổi & Khám phá",
+    "strengths": [
+      "Thích nghi, học nhanh"
+    ],
+    "pitfalls": [
+      "Quá đà, phân tán"
+    ],
+    "habits": [
+      "Chủ đề 90 ngày",
+      "Giờ giới nghiêm",
+      "Thử nghiệm nhỏ/tuần"
+    ],
+    "metrics": [
+      "Số thử nghiệm/tuần",
+      "Tỉ lệ thử nghiệm có kết luận"
+    ],
+    "next_year": {
+      "year": 6,
+      "bridge": "Chuẩn bị cho 6: chọn điều đáng cam kết.",
+      "caution": "Đừng cam kết vì sợ bỏ lỡ."
+    }
+  },
+  "6": {
+    "theme": "Trách nhiệm & Chăm sóc",
+    "strengths": [
+      "Gắn kết gia đình/đội nhóm",
+      "Thẩm mỹ không gian"
+    ],
+    "pitfalls": [
+      "Ôm đồm, kiệt sức"
+    ],
+    "habits": [
+      "Giờ tự chăm bắt buộc",
+      "Uỷ quyền việc chăm sóc",
+      "Pulse sức khoẻ đội"
+    ],
+    "metrics": [
+      "Giờ self‑care/tuần",
+      "Điểm pulse trung bình"
+    ],
+    "next_year": {
+      "year": 7,
+      "bridge": "Chuẩn bị cho 7: dành không gian nội quán.",
+      "caution": "Đừng phủ lịch kín đến mức không có thời gian học."
+    }
+  },
+  "7": {
+    "theme": "Nội quán & Tri thức",
+    "strengths": [
+      "Đào sâu, tinh lọc"
+    ],
+    "pitfalls": [
+      "Cô lập, nghi ngờ"
+    ],
+    "habits": [
+      "Deep work 90’ x3/tuần",
+      "Zettelkasten 2 thẻ/ngày",
+      "Peer review"
+    ],
+    "metrics": [
+      "Phiên deep work/tuần",
+      "Số note chuẩn/tuần"
+    ],
+    "next_year": {
+      "year": 8,
+      "bridge": "Chuẩn bị cho 8: chưng cất thành chỉ số & case.",
+      "caution": "Đừng trốn tránh sân khấu khi cần triển khai."
+    }
+  },
+  "8": {
+    "theme": "Kết quả & Ảnh hưởng",
+    "strengths": [
+      "Thực thi, đo lường"
+    ],
+    "pitfalls": [
+      "Kiểm soát quá mức"
+    ],
+    "habits": [
+      "KPI minh bạch",
+      "Demo thứ Sáu",
+      "Post‑mortem không đổ lỗi"
+    ],
+    "metrics": [
+      "% KPI đạt",
+      "Số demo/tháng"
+    ],
+    "next_year": {
+      "year": 9,
+      "bridge": "Chuẩn bị cho 9: dọn dẹp & bàn giao.",
+      "caution": "Đừng bám víu thứ đã hoàn thành sứ mệnh."
+    }
+  },
+  "9": {
+    "theme": "Kết thúc & Chuyển hoá",
+    "strengths": [
+      "Buông bỏ, tổng kết"
+    ],
+    "pitfalls": [
+      "Cảm tính, sa đà hoài niệm"
+    ],
+    "habits": [
+      "Checklist đóng dự án",
+      "Ngày trắng không cam kết",
+      "Viết thư cảm ơn"
+    ],
+    "metrics": [
+      "Số dự án đóng/tháng",
+      "Mức độ hoàn tất (tự chấm)"
+    ],
+    "next_year": {
+      "year": 1,
+      "bridge": "Chuẩn bị cho 1: tổng kết sâu & chọn hạt giống mới.",
+      "caution": "Đừng vội bắt đầu khi chưa học xong chu kỳ cũ."
+    }
+  }
+}

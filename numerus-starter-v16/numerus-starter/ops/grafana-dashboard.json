@@ -1,0 +1,49 @@
+{
+  "annotations": {
+    "list": []
+  },
+  "panels": [
+    {
+      "type": "graph",
+      "title": "Requests per endpoint",
+      "targets": [
+        {
+          "expr": "sum(rate(numerus_requests_total[5m])) by (endpoint)"
+        }
+      ]
+    },
+    {
+      "type": "graph",
+      "title": "Latency (p50/p90)",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.5, sum(rate(numerus_latency_seconds_bucket[5m])) by (le,endpoint))"
+        },
+        {
+          "expr": "histogram_quantile(0.9, sum(rate(numerus_latency_seconds_bucket[5m])) by (le,endpoint))"
+        }
+      ]
+    },
+    {
+      "type": "graph",
+      "title": "4xx errors",
+      "targets": [
+        {
+          "expr": "sum(rate(numerus_errors_4xx_total[5m])) by (endpoint)"
+        }
+      ]
+    },
+    {
+      "type": "graph",
+      "title": "5xx errors",
+      "targets": [
+        {
+          "expr": "sum(rate(numerus_errors_5xx_total[5m])) by (endpoint)"
+        }
+      ]
+    }
+  ],
+  "title": "Numerus API",
+  "schemaVersion": 36,
+  "version": 1
+}

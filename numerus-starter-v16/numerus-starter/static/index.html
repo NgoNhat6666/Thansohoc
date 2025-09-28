@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numerus - Thần Số Học Chuyên Nghiệp</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-infinity"></i>
+                <span>Numerus</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Trang chủ</a></li>
+                <li><a href="#analyze" class="nav-link">Phân tích</a></li>
+                <li><a href="#systems" class="nav-link">Hệ thống</a></li>
+                <li><a href="#about" class="nav-link">Giới thiệu</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h1>Khám Phá Bí Mật<br>Thần Số Học</h1>
+                <p>Ứng dụng phân tích numerology chuyên nghiệp với 6+ hệ thống khác nhau. Khám phá con đường cuộc đời, tính cách và vận mệnh của bạn thông qua sức mạnh của con số.</p>
+                <a href="#analyze" class="cta-button">
+                    <i class="fas fa-magic"></i>
+                    Bắt đầu khám phá
+                </a>
+            </div>
+            <div class="hero-visual">
+                <div class="floating-numbers">
+                    <span class="number">1</span>
+                    <span class="number">7</span>
+                    <span class="number">3</span>
+                    <span class="number">9</span>
+                    <span class="number">5</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="analyze" class="analyze-section">
+            <div class="container">
+                <h2>🔮 Phân Tích Thần Số Học Chuyên Sâu</h2>
+                
+                <div class="analyze-form-container">
+                    <div style="text-align: center; margin-bottom: 2rem;">
+                        <p style="font-size: 1.1rem; color: #666; line-height: 1.6;">
+                            Nhập thông tin của bạn để nhận được phân tích thần số học chi tiết và chính xác nhất
+                        </p>
+                    </div>
+
+                    <form id="numerologyForm" class="analyze-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="fullName">
+                                    <i class="fas fa-user"></i>
+                                    Họ và tên đầy đủ
+                                </label>
+                                <input type="text" id="fullName" required placeholder="Ví dụ: Nguyễn Văn An">
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="dateOfBirth">
+                                    <i class="fas fa-calendar-alt"></i>
+                                    Ngày sinh
+                                </label>
+                                <input type="date" id="dateOfBirth" required>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="gender">
+                                    <i class="fas fa-venus-mars"></i>
+                                    Giới tính (tùy chọn)
+                                </label>
+                                <select id="gender">
+                                    <option value="">Chọn giới tính</option>
+                                    <option value="male">Nam</option>
+                                    <option value="female">Nữ</option>
+                                    <option value="other">Khác</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="system">
+                                    <i class="fas fa-cogs"></i>
+                                    Hệ thống thần số học
+                                </label>
+                                <select id="system" required>
+                                    <option value="pythagorean">🔢 Pythagorean (Phổ biến nhất)</option>
+                                    <option value="chaldean">📿 Chaldean (Cổ đại Babylon)</option>
+                                    <option value="hebrew_gematria">✡️ Hebrew Gematria</option>
+                                    <option value="greek_isopsephy">🏛️ Greek Isopsephy</option>
+                                    <option value="arabic_abjad">🕌 Arabic Abjad</option>
+                                    <option value="vietnamese_latin">🇻🇳 Vietnamese Latin</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group full-width">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="detailed" checked>
+                                    <span class="checkmark"></span>
+                                    <span>
+                                        <strong>Tạo báo cáo chi tiết</strong> - Bao gồm giải thích và lời khuyên cá nhân hóa (khuyến nghị)
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="analyze-button">
+                            <i class="fas fa-sparkles"></i>
+                            Khám Phá Ngay
+                        </button>
+                    </form>
+
+                    <div id="loading" class="loading hidden">
+                        <div class="spinner"></div>
+                        <p>Đang phân tích thần số học...</p>
+                    </div>
+
+                    <div id="results" class="results hidden">
+                        <h3>Kết Quả Phân Tích</h3>
+                        <div id="resultsContent"></div>
+                        
+                        <div class="result-actions">
+                            <button id="exportHTML" class="export-button">
+                                <i class="fas fa-file-export"></i>
+                                Xuất HTML
+                            </button>
+                            <button id="shareResult" class="share-button">
+                                <i class="fas fa-share-alt"></i>
+                                Chia sẻ
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="systems" class="systems-section">
+            <div class="container">
+                <h2>Hệ Thống Thần Số Học</h2>
+                <div class="systems-grid" id="systemsGrid">
+                    <!-- Loaded dynamically -->
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="container">
+                <h2>Giới Thiệu</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <h3>Numerus - Ứng Dụng Thần Số Học Chuyên Nghiệp</h3>
+                        <p>Numerus là ứng dụng phân tích thần số học tiên tiến, cung cấp những insights sâu sắc về con số và cuộc sống của bạn.</p>
+                        
+                        <div class="features">
+                            <div class="feature">
+                                <i class="fas fa-calculator"></i>
+                                <h4>6 Hệ Thống</h4>
+                                <p>Hỗ trợ đa dạng hệ thống numerology từ cổ điển đến hiện đại</p>
+                            </div>
+                            <div class="feature">
+                                <i class="fas fa-language"></i>
+                                <h4>Tiếng Việt</h4>
+                                <p>Báo cáo chi tiết hoàn toàn bằng tiếng Việt</p>
+                            </div>
+                            <div class="feature">
+                                <i class="fas fa-mobile-alt"></i>
+                                <h4>Responsive</h4>
+                                <p>Tương thích mọi thiết bị di động</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="about-stats">
+                        <div class="stat" id="totalRequests">
+                            <span class="stat-number">0</span>
+                            <span class="stat-label">Phân tích</span>
+                        </div>
+                        <div class="stat" id="successRate">
+                            <span class="stat-number">0%</span>
+                            <span class="stat-label">Thành công</span>
+                        </div>
+                        <div class="stat" id="avgResponseTime">
+                            <span class="stat-number">0ms</span>
+                            <span class="stat-label">Thời gian phản hồi</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Numerus - Thần Số Học. All rights reserved.</p>
+            <p>Powered by FastAPI & GitHub Copilot</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
